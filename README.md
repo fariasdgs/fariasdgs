@@ -89,28 +89,6 @@ Algunos de los proyectos en los que he trabajado o estoy desarrollando están re
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Al's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🔥 Racha de contribuciones
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🛠️ Herramientas de trabajo
 
 <div align="center">
