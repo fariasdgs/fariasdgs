@@ -2,9 +2,9 @@
 
 <div align="center">
 
-  <img src="assets/utxj-logo.png" width="120" alt="Logo UTXJ" />
+  <img src="assets/logoOficialUTXJ.png" width="120" alt="Logo UTXJ" />
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/idgs-logo.png" width="120" alt="Logo IDGS" />
+  <img src="assets/logoTI.png" width="120" alt="Logo IDGS" />
 
   # 👋 Hola, soy Al Farías Leyva
 
