@@ -1,4 +1,3 @@
-```md
 <!-- README.md de perfil GitHub -->
 
 <div align="center">
@@ -137,4 +136,3 @@ Algunos de los proyectos en los que he trabajado o estoy desarrollando están re
 ### “La tecnología es una herramienta para transformar ideas en soluciones reales.”
 
 </div>
-```
