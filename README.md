@@ -28,8 +28,7 @@ Actualmente sigo fortaleciendo mis conocimientos en desarrollo full stack, bases
 
 - 🏫 Universidad: **Universidad Tecnológica de Xicotepec de Juárez**
 - 💻 Carrera: **Ingeniería en Desarrollo y Gestión de Software**
-- 📚 Grupo: **IDGS 9A**
-- 📧 Correo institucional: **TU_CORREO_INSTITUCIONAL@utxj.edu.mx**
+- 📚 Grupo: **IDGS 10A**
 - 📍 México
 
 ---
@@ -104,8 +103,7 @@ Algunos de los proyectos en los que he trabajado o estoy desarrollando están re
 
 ## 📫 Contacto
 
-- 📧 Correo institucional: **TU_CORREO_INSTITUCIONAL@utxj.edu.mx**
-- 💻 GitHub: **https://github.com/TU_USUARIO_GITHUB**
+- 📧 Correo institucional: **230389@xicotepec.edu.mx**
 
 ---
 
