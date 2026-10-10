@@ -25,7 +25,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="assets/LogoTI.png" width="170" alt="Logo IDGS" />
 
-  # 👋 Hola, soy Al Farías Leyva
+  # Hola, soy Al Farías Leyva
 
   ### Estudiante de Ingeniería en Desarrollo y Gestión de Software
   **Universidad Tecnológica de Xicotepec de Juárez — IDGS 10A**
